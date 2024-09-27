@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:languages ="clr-namespace:BackPainTrackerNet8.Resources.Languages"
+             x:Class="BackPainTrackerNet8.Views.BackPainDatas"
+             Title="{x:Static languages:Languages.TitlePageBackPainDatas}">
+    
+    <VerticalStackLayout>
+        <Label Text="{x:Static languages:Languages.BackPainDatas_Label_Title}" FontSize="24" HorizontalOptions="Center" Margin="0,0,0,50"/>
+        <CollectionView x:Name="EntriesCollectionView">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10">
+                        <Label Text="{Binding Date, StringFormat='Date : {0:dd/MM/yyyy}'}" FontAttributes="Bold"/>
+                        <Label Text="{Binding PainLevel, StringFormat='Niveau de douleur : {0}'}"/>
+                        <Label Text="{Binding Notes}"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+    
+</ContentPage>

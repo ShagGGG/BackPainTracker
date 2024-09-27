@@ -1,0 +1,19 @@
+# Fichiers et dossiers de Visual Studio à ignorer
+.vs/
+*.user
+*.suo
+*.dbmdl
+*.mdf
+*.log
+*.obj
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.aps
+*.ncb
+*.sdf
+*.ipch
+*.tlog
+*.VC.db
+*.VC.opendb

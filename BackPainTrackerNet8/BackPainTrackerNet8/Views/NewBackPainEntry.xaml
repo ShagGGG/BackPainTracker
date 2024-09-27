@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:System="clr-namespace:System;assembly=netstandard"
+             xmlns:languages ="clr-namespace:BackPainTrackerNet8.Resources.Languages"
+             x:Class="BackPainTrackerNet8.Views.NewBackPainEntry"
+             Title="{x:Static languages:Languages.TitlePageNewBackPainEtry}">
+
+    <Grid Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Text="{x:Static languages:Languages.NewBackPainEntry_Label_Title}" FontSize="24" HorizontalOptions="Center"/>
+
+        <DatePicker Grid.Row="1" x:Name="DatePickerEntry" Date="{x:Static System:DateTime.Now}" HorizontalOptions="CenterAndExpand" MaximumHeightRequest="50"/>
+
+        <Slider Grid.Row="2" x:Name="PainSlider" Minimum="1" Maximum="10" Value="5"/>
+
+        <StackLayout Grid.Row="3" Orientation="Horizontal">
+            <Label x:Name="PainSliderText" Text="{x:Static languages:Languages.NewBackPainEntry_LabelSlider_BackPainLevel}"/>
+            <Label x:Name="PainSliderValue" Text="{Binding Source={x:Reference PainSlider}, Path=Value, StringFormat='{0:F0}'}" Padding="3,0,0,0"/>
+        </StackLayout>
+
+        <Editor Grid.Row="4" x:Name="NotesEditor" Placeholder="{x:Static languages:Languages.NewBackPainEntry_Editor_Placeholder}" HeightRequest="100"/>
+        
+        <Button Grid.Row="5" Text="{x:Static languages:Languages.NewBackPainEntry_SaveButton}" Clicked="OnSaveButtonClicked" MaximumHeightRequest="50" VerticalOptions="End" />
+    </Grid>
+    
+</ContentPage>
