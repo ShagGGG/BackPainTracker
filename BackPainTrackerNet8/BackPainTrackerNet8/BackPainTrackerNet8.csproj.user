@@ -3,7 +3,7 @@
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net8.0-ios</ActiveDebugFramework>
-    <ActiveDebugProfile>Kyllian Mpaté</ActiveDebugProfile>
+    <ActiveDebugProfile>Appareil local</ActiveDebugProfile>
     <SelectedPlatformGroup>LocalDevice</SelectedPlatformGroup>
     <DeveloperId>88A2V359M5</DeveloperId>
     <DevelopmentTeamId>88A2V359M5</DevelopmentTeamId>

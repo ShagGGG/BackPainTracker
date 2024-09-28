@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackPainTrackerNet8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+44d95138e67e478b67c4034409704d920f43e09e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2b0495c9a8a3dde2a5996dceefffac1d6c380781")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackPainTrackerNet8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackPainTrackerNet8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
