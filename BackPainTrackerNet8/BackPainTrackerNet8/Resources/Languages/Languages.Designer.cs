@@ -61,6 +61,24 @@ namespace BackPainTrackerNet8.Resources.Languages {
         }
         
         /// <summary>
+        ///   Recherche une chaîne localisée semblable à Date : {0:MM/dd/yyyy}.
+        /// </summary>
+        internal static string BackPainDatas_Label_Date {
+            get {
+                return ResourceManager.GetString("BackPainDatas_Label_Date", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Pain level : {0}.
+        /// </summary>
+        internal static string BackPainDatas_Label_PainLevel {
+            get {
+                return ResourceManager.GetString("BackPainDatas_Label_PainLevel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Recherche une chaîne localisée semblable à Edit Data.
         /// </summary>
         internal static string BackPainDatas_Label_Title {
@@ -88,7 +106,7 @@ namespace BackPainTrackerNet8.Resources.Languages {
         }
         
         /// <summary>
-        ///   Recherche une chaîne localisée semblable à Pain level : .
+        ///   Recherche une chaîne localisée semblable à Pain level : {0:F0}.
         /// </summary>
         internal static string NewBackPainEntry_LabelSlider_BackPainLevel {
             get {

@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|c:\\users\\guill\\source\\repos\\shagggg\\backpaintracker\\backpaintrackernet8\\backpaintrackernet8\\views\\newbackpainentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|solutionrelative:backpaintrackernet8\\views\\newbackpainentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|c:\\users\\guill\\source\\repos\\shagggg\\backpaintracker\\backpaintrackernet8\\backpaintrackernet8\\views\\newbackpainentry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|solutionrelative:backpaintrackernet8\\views\\newbackpainentry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|c:\\users\\guill\\source\\repos\\shagggg\\backpaintracker\\backpaintrackernet8\\backpaintrackernet8\\viewmodels\\newbackpainentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|solutionrelative:backpaintrackernet8\\viewmodels\\newbackpainentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|c:\\users\\guill\\source\\repos\\shagggg\\backpaintracker\\backpaintrackernet8\\backpaintrackernet8\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|solutionrelative:backpaintrackernet8\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|c:\\users\\guill\\source\\repos\\shagggg\\backpaintracker\\backpaintrackernet8\\backpaintrackernet8\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|solutionrelative:backpaintrackernet8\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|c:\\users\\guill\\source\\repos\\shagggg\\backpaintracker\\backpaintrackernet8\\backpaintrackernet8\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|solutionrelative:backpaintrackernet8\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|c:\\users\\guill\\source\\repos\\shagggg\\backpaintracker\\backpaintrackernet8\\backpaintrackernet8\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|solutionrelative:backpaintrackernet8\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BackPainTrackerNet8\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\App.xaml.cs",
+              "RelativeToolTip": "BackPainTrackerNet8\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:37:45.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "BackPainTrackerNet8\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\MauiProgram.cs",
+              "RelativeToolTip": "BackPainTrackerNet8\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:42:36.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewBackPainEntry.xaml",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml",
+              "RelativeDocumentMoniker": "BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml*",
+              "RelativeToolTip": "BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T19:13:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewBackPainEntryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\ViewModels\\NewBackPainEntryViewModel.cs",
+              "RelativeDocumentMoniker": "BackPainTrackerNet8\\ViewModels\\NewBackPainEntryViewModel.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\ViewModels\\NewBackPainEntryViewModel.cs",
+              "RelativeToolTip": "BackPainTrackerNet8\\ViewModels\\NewBackPainEntryViewModel.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:45:15.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\Services\\INavigationService.cs",
+              "RelativeDocumentMoniker": "BackPainTrackerNet8\\Services\\INavigationService.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\Services\\INavigationService.cs",
+              "RelativeToolTip": "BackPainTrackerNet8\\Services\\INavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:43:50.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "BackPainTrackerNet8\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\Services\\NavigationService.cs",
+              "RelativeToolTip": "BackPainTrackerNet8\\Services\\NavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:22:47.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewBackPainEntry.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml.cs",
+              "RelativeDocumentMoniker": "BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml.cs",
+              "ToolTip": "C:\\Users\\guill\\source\\repos\\ShagGGG\\BackPainTracker\\BackPainTrackerNet8\\BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml.cs",
+              "RelativeToolTip": "BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:33:55.266Z",
+              "EditorCaption": ""
             }
           ]
         }

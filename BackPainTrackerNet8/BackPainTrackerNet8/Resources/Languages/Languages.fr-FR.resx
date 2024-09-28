@@ -124,7 +124,7 @@
     <value>Suivi des maux de dos</value>
   </data>
   <data name="NewBackPainEntry_LabelSlider_BackPainLevel" xml:space="preserve">
-    <value>Niveau de douleur :</value>
+    <value>Niveau de douleur : {0:F0}</value>
   </data>
   <data name="NewBackPainEntry_Editor_Placeholder" xml:space="preserve">
     <value>Notes supplémentaires</value>
@@ -137,5 +137,11 @@
   </data>
   <data name="BackPainDatas_Label_Title" xml:space="preserve">
     <value>Editer une donnée</value>
+  </data>
+  <data name="BackPainDatas_Label_Date" xml:space="preserve">
+    <value>Date : {0:dd/MM/yyyy}</value>
+  </data>
+  <data name="BackPainDatas_Label_PainLevel" xml:space="preserve">
+    <value>Niveau de douleur : {0}</value>
   </data>
 </root>

@@ -106,7 +106,7 @@
     <comment>Titre en haut de la page</comment>
   </data>
   <data name="NewBackPainEntry_LabelSlider_BackPainLevel" xml:space="preserve">
-    <value>Pain level : </value>
+    <value>Pain level : {0:F0}</value>
     <comment>Texte du niveau de mal de dos</comment>
   </data>
   <data name="NewBackPainEntry_Editor_Placeholder" xml:space="preserve">
@@ -124,5 +124,12 @@
   <data name="BackPainDatas_Label_Title" xml:space="preserve">
     <value>Edit Data</value>
     <comment>Titre en haut de la page BackPainDatas</comment>
+  </data>
+  <data name="BackPainDatas_Label_Date" xml:space="preserve">
+    <value>Date : {0:MM/dd/yyyy}</value>
+    <comment>Affichage du titre de la date</comment>
+  </data>
+  <data name="BackPainDatas_Label_PainLevel" xml:space="preserve">
+    <value>Pain level : {0}</value>
   </data>
 </root>

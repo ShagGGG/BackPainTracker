@@ -11,8 +11,8 @@
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <StackLayout Padding="10">
-                        <Label Text="{Binding Date, StringFormat='Date : {0:dd/MM/yyyy}'}" FontAttributes="Bold"/>
-                        <Label Text="{Binding PainLevel, StringFormat='Niveau de douleur : {0}'}"/>
+                        <Label Text="{Binding Date, StringFormat={x:Static languages:Languages.BackPainDatas_Label_Date}}" FontAttributes="Bold"/>
+                        <Label Text="{Binding PainLevel, StringFormat={x:Static languages:Languages.BackPainDatas_Label_PainLevel}}"/>
                         <Label Text="{Binding Notes}"/>
                     </StackLayout>
                 </DataTemplate>

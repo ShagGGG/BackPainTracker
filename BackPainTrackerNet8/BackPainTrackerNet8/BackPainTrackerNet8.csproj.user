@@ -7,6 +7,7 @@
     <SelectedPlatformGroup>LocalDevice</SelectedPlatformGroup>
     <DeveloperId>88A2V359M5</DeveloperId>
     <DevelopmentTeamId>88A2V359M5</DevelopmentTeamId>
+    <DefaultDevice>pixel_7_-_api_34</DefaultDevice>
   </PropertyGroup>
   <PropertyGroup Condition="'$(TargetPlatformIdentifier)'=='iOS'">
     <RuntimeIdentifier>ios-arm64</RuntimeIdentifier>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackPainTrackerNet8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Windows10")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+44d95138e67e478b67c4034409704d920f43e09e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+17cd39879a67d83b4b950085b697b9f847b7235d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackPainTrackerNet8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackPainTrackerNet8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
