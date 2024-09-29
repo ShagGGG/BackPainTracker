@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\BackPainTrackerGitHubVersion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|d:\\repos\\backpaintrackergithubversion\\backpaintrackernet8\\views\\newbackpainentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|solutionrelative:backpaintrackernet8\\views\\newbackpainentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|d:\\repos\\backpaintrackergithubversion\\backpaintrackernet8\\views\\newbackpainentry.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|solutionrelative:backpaintrackernet8\\views\\newbackpainentry.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|d:\\repos\\backpaintrackergithubversion\\backpaintrackernet8\\viewmodels\\newbackpainentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656F3B19-1800-469F-AE89-5E505640ED2B}|BackPainTrackerNet8\\BackPainTrackerNet8.csproj|solutionrelative:backpaintrackernet8\\viewmodels\\newbackpainentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewBackPainEntry.xaml.cs",
+              "DocumentMoniker": "D:\\Repos\\BackPainTrackerGitHubVersion\\BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml.cs",
+              "RelativeDocumentMoniker": "BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml.cs",
+              "ToolTip": "D:\\Repos\\BackPainTrackerGitHubVersion\\BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml.cs",
+              "RelativeToolTip": "BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:09:55.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewBackPainEntry.xaml",
+              "DocumentMoniker": "D:\\Repos\\BackPainTrackerGitHubVersion\\BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml",
+              "RelativeDocumentMoniker": "BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml",
+              "ToolTip": "D:\\Repos\\BackPainTrackerGitHubVersion\\BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml",
+              "RelativeToolTip": "BackPainTrackerNet8\\Views\\NewBackPainEntry.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T11:09:52.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewBackPainEntryViewModel.cs",
+              "DocumentMoniker": "D:\\Repos\\BackPainTrackerGitHubVersion\\BackPainTrackerNet8\\ViewModels\\NewBackPainEntryViewModel.cs",
+              "RelativeDocumentMoniker": "BackPainTrackerNet8\\ViewModels\\NewBackPainEntryViewModel.cs",
+              "ToolTip": "D:\\Repos\\BackPainTrackerGitHubVersion\\BackPainTrackerNet8\\ViewModels\\NewBackPainEntryViewModel.cs",
+              "RelativeToolTip": "BackPainTrackerNet8\\ViewModels\\NewBackPainEntryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:13:24.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
